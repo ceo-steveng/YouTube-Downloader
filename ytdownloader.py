@@ -11,4 +11,4 @@ print("Views: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('/Users/StevenGarcia 1/Downloads/YouTube Downloads')
+yd.download('/Users/StevenGarcia\ 1/Downloads/YouTube Downloads')
